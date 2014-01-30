@@ -2,8 +2,8 @@
 <configuration>
 
 	<postdata>
-		<txtUser>P1INMS01</txtUser>
-		<txtPassword>CH47ks</txtPassword>
+		<txtUser></txtUser>
+		<txtPassword></txtPassword>
 		<__VIEWSTATE>dDwtNDI3ODU5Mjc0OztsPGJ0bkxvZ2luO2J0bkxvZ291dDs+PpmLwC7ju+7nnPvYoD9y2sEAeJLF</__VIEWSTATE>
 		<btnLogin.x>23</btnLogin.x>
 		<btnLogin.y>16</btnLogin.y>
